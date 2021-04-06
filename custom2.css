@@ -1,0 +1,186 @@
+
+
+html .container {
+	width: 100%;
+	max-width: 1070px;
+	margin: 0 auto;
+	padding: 0 15px;
+}
+html header .fixing > .container {
+	max-width: 1070px;
+	width: 100%;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+html .covid-section, html .page-pricing .covid-section {
+	background-color: #2e7de1;
+	color: #fff;
+	padding: 8px 15px;
+	text-align: center;
+	font-size: 16px;
+	word-spacing: 2px;
+	position: fixed;
+	width: 100%;
+	top: 0;
+	z-index: 999;
+	height: 40px;
+} 
+html .logged-in .fixing, html .logged-in .fixing.activated {
+	top: 73px !important;
+}
+html .fixing, html .fixing.activated {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	background: #fff;
+	padding: 9px 0 !important;
+	z-index: 99999;
+	box-shadow: 0px 0px 0px #ddd;
+	top: 40px !important;
+}
+html .fixing.activated {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+	background: #fff;
+	padding: 19px 0;
+	z-index: 99999;
+	box-shadow: 0 0 2px rgba(0,0,0,.5);
+}
+header #menu-header-menu .menu-item a {
+	font-size: 18px;
+	color: #596C86;
+	font-weight: normal;
+}
+header #menu-header-menu li {
+	margin-right: 50px;
+}
+header #menu-header-menu {
+	padding-left: 50px;
+}
+html .page-header #menu-sign-in li.toggle-get-started a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: #2E7DE1;
+	border-radius: 20px;
+	border: none;
+	background: transparent;
+	line-height: 1;
+	font-weight: normal;
+	padding: 0 16px 0 0;
+	min-height: auto;
+	border: 0px solid #FF3EB3;
+	text-align: center;
+	cursor: pointer;
+	font-family: 'ProximaNovaSoft-Bold';
+	width: auto !important;
+	border-radius: 50px;
+	font-size: 18px;
+	height: auto !important;
+	background-image: url("images/Icon.svg");
+	background-repeat: no-repeat;
+	background-size: 9px;
+	background-position: right top 3px;
+}
+html .page-header #menu-sign-in a {
+	font-size: 18px;
+	background: #FF3EB3;
+	border: none;
+	color: #fff;
+	font-weight: normal;
+	font-family: 'ProximaNovaSoft-Bold';
+	width: 136px;
+	text-align: center !important;
+	display: block;
+	padding-top: 10px;
+}
+.page-header .logo img {
+	width: 45px;
+} 
+html span.covid-learn {
+	text-decoration: underline;
+	color: #fff;
+	font-weight: bold;
+}
+html span.covid-learn i {
+	font-size: 13px;
+}
+header #menu-header-menu .menu-item a:hover {
+	color: #FF3EB3 ;
+}
+
+footer#page-footer {
+	float: left;
+	width: 100%;
+	position: relative;
+	height: auto;
+	background-image: url("images/foot-back.png");
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+html footer#page-footer .container {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+footer .title {
+	font-size: 20px !important;
+	color: #0F1B48 !important;
+	font-weight: normal;
+	font-family: 'ProximaNovaSoft-Bold';
+}
+footer .cities p {
+	font-size: 20px !important;
+	color: #596C86 !important;
+	line-height: 26px !important;
+}
+#menu-services-footer-menu li a, #menu-locations-footer-menu li a {
+	font-size: 20px;
+	color: #596C86 !important;
+	text-decoration: underline;
+}
+#menu-services-footer-menu li, #menu-locations-footer-menu li {
+	margin-bottom: 13px;
+}
+footer .footer-right .block .title {
+	color: #596C86 !important;
+	font-size: 18px !important;
+}
+footer .footer-right .block p, footer .footer-right .block a {
+	font-size: 16px !important;
+	color: #596C86 !important;
+}
+footer .footer-right .block {
+	margin-bottom: 20px !important;
+}
+footer .footer-right .block ul li a i {
+	border: 1px solid;
+	padding: 3px;
+	margin: 0 9px 0 0;
+	font-size: 15px;
+	color: #0F1B48;
+	border-radius: 40px;
+	width: 24px;
+	height: 24px;
+	text-align: center;
+}
+
+ 
+
+ 
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
